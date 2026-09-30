@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **18** | 0 | 18 | 0 | `2026-09-30` |
+| **19** | 0 | 19 | 0 | `2026-09-30` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (18)
+### DSA (19)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -33,7 +33,8 @@
 | 0015 | [357. Reverse a String II](./DSA/Strings/reverse-a-string-ii) | [CPP](./DSA/Strings/reverse-a-string-ii/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-09-23` |
 | 0016 | [695. Second Largest Element](./DSA/Arrays/second-largest-element) | [CPP](./DSA/Arrays/second-largest-element/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
 | 0017 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [CPP](./DSA/General/sum-of-first-n-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-24` |
-| 0018 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [CPP](./DSA/Arrays/union-of-two-sorted-arrays/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-29` |
+| 0018 | [749. Sum of Highest and Lowest Frequency](./DSA/General/sum-of-highest-and-lowest-frequency) | [CPP](./DSA/General/sum-of-highest-and-lowest-frequency/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-30` |
+| 0019 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [CPP](./DSA/Arrays/union-of-two-sorted-arrays/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-29` |
 
 ---
 
