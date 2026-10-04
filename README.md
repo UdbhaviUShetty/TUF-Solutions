@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **25** | 0 | 25 | 0 | `2026-10-04` |
+| **26** | 0 | 26 | 0 | `2026-10-04` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (25)
+### DSA (26)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -31,16 +31,17 @@
 | 0013 | [895. Palindrome Check](./DSA/Strings/palindrome-check) | [CPP](./DSA/Strings/palindrome-check/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-09-23` |
 | 0014 | [161. Pascal's Triangle I](./DSA/Arrays/pascals-triangle-i) | [CPP](./DSA/Arrays/pascals-triangle-i/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-04` |
 | 0015 | [378. Pascal's Triangle II](./DSA/Arrays/pascals-triangle-ii) | [CPP](./DSA/Arrays/pascals-triangle-ii/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-04` |
-| 0016 | [375. Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [CPP](./DSA/Arrays/rearrange-array-elements-by-sign/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-01` |
-| 0017 | [196. Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [CPP](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
-| 0018 | [294. Reverse a String I](./DSA/Strings/reverse-a-string-i) | [CPP](./DSA/Strings/reverse-a-string-i/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-09-24` |
-| 0019 | [357. Reverse a String II](./DSA/Strings/reverse-a-string-ii) | [CPP](./DSA/Strings/reverse-a-string-ii/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-09-23` |
-| 0020 | [742. Second Highest Occurring Element](./DSA/General/second-highest-occurring-element) | [CPP](./DSA/General/second-highest-occurring-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-30` |
-| 0021 | [695. Second Largest Element](./DSA/Arrays/second-largest-element) | [CPP](./DSA/Arrays/second-largest-element/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
-| 0022 | [897. Sum of Array Elements II](./DSA/Arrays/sum-of-array-elements-ii) | [CPP](./DSA/Arrays/sum-of-array-elements-ii/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-30` |
-| 0023 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [CPP](./DSA/General/sum-of-first-n-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-24` |
-| 0024 | [749. Sum of Highest and Lowest Frequency](./DSA/General/sum-of-highest-and-lowest-frequency) | [CPP](./DSA/General/sum-of-highest-and-lowest-frequency/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-30` |
-| 0025 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [CPP](./DSA/Arrays/union-of-two-sorted-arrays/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-29` |
+| 0016 | [945. Pascal's Triangle III](./DSA/Arrays/pascals-triangle-iii) | [CPP](./DSA/Arrays/pascals-triangle-iii/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-04` |
+| 0017 | [375. Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [CPP](./DSA/Arrays/rearrange-array-elements-by-sign/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-01` |
+| 0018 | [196. Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [CPP](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
+| 0019 | [294. Reverse a String I](./DSA/Strings/reverse-a-string-i) | [CPP](./DSA/Strings/reverse-a-string-i/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-09-24` |
+| 0020 | [357. Reverse a String II](./DSA/Strings/reverse-a-string-ii) | [CPP](./DSA/Strings/reverse-a-string-ii/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-09-23` |
+| 0021 | [742. Second Highest Occurring Element](./DSA/General/second-highest-occurring-element) | [CPP](./DSA/General/second-highest-occurring-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-30` |
+| 0022 | [695. Second Largest Element](./DSA/Arrays/second-largest-element) | [CPP](./DSA/Arrays/second-largest-element/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
+| 0023 | [897. Sum of Array Elements II](./DSA/Arrays/sum-of-array-elements-ii) | [CPP](./DSA/Arrays/sum-of-array-elements-ii/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-30` |
+| 0024 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [CPP](./DSA/General/sum-of-first-n-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-24` |
+| 0025 | [749. Sum of Highest and Lowest Frequency](./DSA/General/sum-of-highest-and-lowest-frequency) | [CPP](./DSA/General/sum-of-highest-and-lowest-frequency/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-30` |
+| 0026 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [CPP](./DSA/Arrays/union-of-two-sorted-arrays/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-29` |
 
 ---
 
